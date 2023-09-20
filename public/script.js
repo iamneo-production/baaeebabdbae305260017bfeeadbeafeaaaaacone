@@ -1,4 +1,4 @@
-function applyDiscount() {
+function applyDiscountcc() {
     var amountInput = document.getElementById("amountInput");
     var totalAmount = parseFloat(amountInput.value);
 
